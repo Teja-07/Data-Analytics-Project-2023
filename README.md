@@ -1,2 +1,3 @@
 # Data-Analytics-Project-2023
 This is the Data Analytics project of House predication using Tableau here we segregated all the data of the new house across all the places and made an analysis using the tableau and created the web page using Flask server
+The process of estimating the value or price of residential properties based on a variety of factors and data is known as house prediction. It is also referred to as housing market analysis or real estate forecasting. The relevant data can be analyzed and visualized with the help of Tableau, a well-known data visualization tool, to obtain insights and make predictions regarding the housing market.
