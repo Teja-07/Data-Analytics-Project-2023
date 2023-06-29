@@ -7,4 +7,7 @@ To collect housing-related data, users of Tableau can import data from spreadshe
 Tableau is a powerful tool for predicting house prices and analyzing data on the housing market. It helps the real estate industry make better decisions by making it easier to explore, comprehend, and communicate insights from complex datasets thanks to its intuitive interface and visualization capabilities
 
 Flask Framework: Flask is a lightweight Python web framework used for building web applications. It provides a simple and flexible way to create server-side functionality for your project.
-We publsihed our data analytics project on a Flask server, you make it accessible to users through a web interface or API endpoints. This allows others to interact with your project, input their data, and receive analysis results or insights in real-time
+We publsihed our data analytics project on a Flask server, you make it accessible to users through a web interface or API endpoints. This allows others to interact with our project, input their data, and receive analysis results or insights in real-time
+
+We created a data analytics dashboard.By creating this data analytics dashboard, we enhance the user experience and make it easier for stakeholders to gain insights from our project. They can visualize the data, interact with it, and make data-driven decisions more effectively.
+The purpose of a Data-Analytics dashboard is Visual Representation,Data Exploration,Real-time Monitoring,Data Insights
