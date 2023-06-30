@@ -12,4 +12,5 @@ We publsihed our data analytics project on a Flask server, you make it accessibl
 We created a data analytics dashboard.By creating this data analytics dashboard, we enhance the user experience and make it easier for stakeholders to gain insights from our project. They can visualize the data, interact with it, and make data-driven decisions more effectively.
 The purpose of a Data-Analytics dashboard is Visual Representation,Data Exploration,Real-time Monitoring,Data Insights
 
-Project Video can be found in Project Report
+Project Video can be found below:
+https://drive.google.com/drive/folders/1HEXQuiOLlzLHfyY9uQ4j8RyNlI8EKzW1
